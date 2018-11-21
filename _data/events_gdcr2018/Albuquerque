@@ -1,0 +1,17 @@
+{
+  "title": "Deep Dive Coding Bootcamps Global Day of Code Retreat",
+  "url": "https://www.eventbrite.com/e/global-day-code-retreat-albuquerque-new-mexico-tickets-52122850850",
+  "moderators": [
+    "Brian Jones"
+  ],
+  "location": {
+    "city": "albuquerque",
+    "country": "United States of America",
+    "coordinates": {
+      "latitude": 35.0861174,
+      "longitude": -106.6512884
+    },
+    "utcOffset": -6,
+    "timezone": "America/Denver"
+  }
+}
